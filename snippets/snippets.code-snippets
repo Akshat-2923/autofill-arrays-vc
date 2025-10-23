@@ -369,7 +369,7 @@
 		},
 	"numbersOddA": {
 			"prefix": "numbersOddA",
-			"body": "301, 303, 305, 307, 309"
+			"body": "1, 2, 3, 4, 5 "
 		},
 	"numbersOddB": {
 			"prefix": "numbersOddB",
@@ -512,3 +512,4 @@
 			"body": "492, 494, 496, 498, 500, 502, 504, 506, 508, 510"
 		}
 }
+
